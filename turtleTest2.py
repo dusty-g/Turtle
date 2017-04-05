@@ -2,8 +2,10 @@ import turtle
 screen = turtle.Screen()
 turtle.listen(xdummy=None, ydummy=None)
 def f():
+    # move forward 5 pixels
      turtle.fd(5)
 def l():
+    # turn left 10 degrees
     turtle.lt(10)
 def r():
     turtle.rt(9)
